@@ -19,14 +19,14 @@ namespace EmpWage
             Uc4 uc4 = new Uc4();
             uc4.EmpWage();
 
-            //Uc3 uc3 = new Uc3();
-            //uc3.EmpWage();
+            Uc3 uc3 = new Uc3();
+            uc3.EmpWage();
 
-            //Uc2 uc2 = new Uc2();
-            //uc2.CalculateWage();
+            Uc2 uc2 = new Uc2();
+            uc2.CalculateWage();
 
-            //Uc1 uc1 = new Uc1();
-            //uc1.Attendance();
+            Uc1 uc1 = new Uc1();
+            uc1.Attendance();
 
 
         }
